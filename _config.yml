@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+# Name of website
+title: F16 ICP Build Guide
+
+author: Martijn van Essen
