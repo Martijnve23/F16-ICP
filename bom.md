@@ -24,11 +24,13 @@ The following parts are required to be 3D Printed. For more details, please see 
 ---
 ### Hardware
 * 1x STM32 Blue Pill
+* 27x diodes (Get some spares. Type 1N4001 or something similar. Most 1NXXXX will work. Body length: ~4.5 mm)
 * 8x 6x6x4.3 mm tactile switches (just get a pack of 50 or 100)
 * 2x ON-OFF-ON 3 position Toggle switches (About 30x15mm. Like an E-TEN1122)
 * 19x Cherry MX (or compatible) switches
 * SOME AMOUNTx M3xLENGTH bolts
 * \[**Optional**\] Threaded brass inserts\[\*\]
+* \[**Optional**\] 2x 27R resistors and spare USB cable to cut up\[\*\]
 
 \[\*\] The brass inserts are not necessary, but do improve the longevity of the 3D printed base if you need to take it apart and put it together a couple of times.  
 **IMPORTANT:** To use the brass inserts, print the BRASS_INSERTS version of the body file.
