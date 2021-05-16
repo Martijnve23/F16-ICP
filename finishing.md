@@ -14,6 +14,10 @@ This is the part of the project which requires a bit of creativity and some of y
 After this, paint all the parts using some spray paint. If you plan on laser engraving, use a white base-coat underneath. This helps getting clear engravings.  
 **Note:** Don't spray too much paint inside the keyholes. This could create interference problems with the keycaps.
 
+## Assembling dobber switch
+
+## Assembling rocker switch
+
 ## Keycaps
 The exact same method is used for finishing and painting the keycaps. Check proper fitment between the body and keycaps.
 

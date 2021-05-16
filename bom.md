@@ -19,15 +19,16 @@ The following parts are required to be 3D Printed. For more details, please see 
 * 6x Round pushbuttons
 * 2x Rocker switch base
 * 2x Rocker switch cover
-* Dobber switch (Base + Stem)
+* Dobber switch (Base + Stem + Cover)
 
 ---
 ### Hardware
 * 1x STM32 Blue Pill
 * 27x diodes (Get some spares. Type 1N4001 or something similar. Most 1NXXXX will work. Body length: ~4.5 mm)
-* 8x 6x6x4.3 mm tactile switches (just get a pack of 50 or 100) (If possible, use 500 gram actuation fore switches instead of the default 160 gram)
+* 8x 6x6x4.3 mm tactile switches (just get a pack of 50 or 100) (If possible, use 500 gram actuation force switches instead of the default 160 gram)
 * 2x ON-OFF-ON 3 position Toggle switches (About 30x15mm. Like an E-TEN1122)
-* 19x Cherry MX (or compatible) switches
+* 19x Cherry MX (or compatible) switches. (The real switches are quite heavy. For the most realistic feel, get the heaviest switches you can get)
+* 6x 10k resistors (Exact value should not matter too much)
 * SOME AMOUNTx M3xLENGTH bolts
 * \[**Optional**\] 2x 20 pin female 2.54mm headers (if you don't want to solder the Blue Pill directly to the PCB)
 * \[**Optional**\] Threaded brass inserts\[\*\]
