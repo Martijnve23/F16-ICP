@@ -39,5 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ![ICP_Overview](/images/ICP_Front.jpg)
 ## Introduction
 **PLEASE NOTE: This is a work in progress. If you notices any mistakes, please open an issue on github or contact me another way. Please check anything you order to verify correct quantities and correctness of the parts**  
-The following pages will give a general guide for building the F16 ICP as shown in the image above. This will consist of the following chapters:
+The following pages will give a general guide for building the F16 ICP as shown in the image above. All files can be downloaded by cloning [this](https://github.com/Martijnve23/F16-ICP) repository on github, or by downloading the [release](https://github.com/Martijnve23/F16-ICP/releases/)
+This will consist of the following chapters:
 {% include navigation.md %}
