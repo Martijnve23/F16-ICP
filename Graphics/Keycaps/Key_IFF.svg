@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="14.28mm" height="14.28mm" viewBox="0 0 14.28 14.28" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="ShapeString" transform="translate(7.140000,7.140000) scale(1,-1)">
+<path id="ShapeString_f0000"  d="M -2.677484076433121 1.4235031847133757 L -2.1118789808917198 1.4235031847133757 L -2.1118789808917198 -1.43 L -2.677484076433121 -1.43 L -2.677484076433121 1.4235031847133757 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="ShapeString_f0001"  d="M -1.5959554140127388 1.4235031847133757 L 0.32378980891719733 1.4235031847133757 L 0.32378980891719733 0.9343312101910828 L -1.0303503184713376 0.9343312101910828 L -1.0303503184713376 0.2821019108280254 L 0.1390764331210188 0.2821019108280254 L 0.1390764331210188 -0.2070700636942675 L -1.0303503184713376 -0.2070700636942675 L -1.0303503184713376 -1.43 L -1.5959554140127388 -1.43 L -1.5959554140127388 1.4235031847133757 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="ShapeString_f0002"  d="M 0.768375796178344 1.4235031847133757 L 2.6881210191082805 1.4235031847133757 L 2.6881210191082805 0.9343312101910828 L 1.333980891719745 0.9343312101910828 L 1.333980891719745 0.2821019108280254 L 2.503407643312102 0.2821019108280254 L 2.503407643312102 -0.2070700636942675 L 1.333980891719745 -0.2070700636942675 L 1.333980891719745 -1.43 L 0.768375796178344 -1.43 L 0.768375796178344 1.4235031847133757 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'ShapeString'</title>
+</g>
+<g id="Sketch" transform="translate(7.140000,7.140000) scale(1,-1)">
+<circle cx="0.0" cy="0.0" r="7.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Sketch'</title>
+</g>
+</svg>

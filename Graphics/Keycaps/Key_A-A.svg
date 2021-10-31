@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="14.28mm" height="14.28mm" viewBox="0 0 14.28 14.28" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="ShapeString" transform="translate(7.140000,7.140000) scale(1,-1)">
+<path id="ShapeString_f0000"  d="M -1.2888216560509553 -1.43 L -1.533407643312102 -0.7777707006369426 L -2.653152866242038 -0.7777707006369426 L -2.885 -1.43 L -3.485 -1.43 L -2.39328025477707 1.4235031847133757 L -1.795828025477707 1.4235031847133757 L -0.6735350318471336 -1.43 L -1.2888216560509553 -1.43 Z M -2.1015605095541403 0.9343312101910828 L -2.479904458598726 -0.28859872611464965 L -1.7155732484076434 -0.28859872611464965 L -2.1015605095541403 0.9343312101910828 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="ShapeString_f0001"  d="M -0.41111464968152855 -0.2070700636942675 L 0.643662420382165 -0.2070700636942675 L 0.643662420382165 -0.6962420382165605 L -0.41111464968152855 -0.6962420382165605 L -0.41111464968152855 -0.2070700636942675 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<path id="ShapeString_f0002"  d="M 2.8691401273885346 -1.43 L 2.624554140127388 -0.7777707006369426 L 1.5048089171974524 -0.7777707006369426 L 1.2729617834394902 -1.43 L 0.6729617834394905 -1.43 L 1.7646815286624205 1.4235031847133757 L 2.3621337579617836 1.4235031847133757 L 3.484426751592357 -1.43 L 2.8691401273885346 -1.43 Z M 2.0564012738853505 0.9343312101910828 L 1.6780573248407644 -0.28859872611464965 L 2.442388535031847 -0.28859872611464965 L 2.0564012738853505 0.9343312101910828 Z " stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:#cccccc;fill-opacity:1.0;fill-rule: evenodd "/>
+<title>b'ShapeString'</title>
+</g>
+<g id="Sketch" transform="translate(7.140000,7.140000) scale(1,-1)">
+<circle cx="0.0" cy="0.0" r="7.0" stroke="#000000" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>b'Sketch'</title>
+</g>
+</svg>
