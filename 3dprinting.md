@@ -62,10 +62,12 @@ The rocker switch consists of 2 3D printed parts and 2 pushbuttons. Cut two legs
 **Supports:** Yes  
 
 ### Dobber Switch
+This part will require some tinkering to get the fitment right. The design is based on [this](https://www.thingiverse.com/thing:3641494) design from Thingiverse. Just try printing the stem at 90%, 95% and 100%. Test the fit and finetune the scale from there.  
+  
 The dobber switch consists of 3 3D printed parts and 4 pushbuttons. Cut 2 legs of the pushbuttons flush and place them in the body. Insert the stem in the center. Most likely it will not fit correctly and not all buttons can be pushed. In this case either:
 * Sand the tops of the buttons a bit
 * Sand the stem a bit
-* Scale the stem in the X and Y direction in your slicer and play around until it fits.  
+* Scale the stem in the X and Y direction in your slicer and play around until it fits. (Mine worked well at 97% XY scale and 100% Z scale) 
   
 Once the stem fits, insert the cover.
 #### Body

@@ -5,7 +5,7 @@
 It is mostly important if you plan on soldering the Blue Pill in place without headers. With headers to order is less important.  
 With that out of the way, let's get on with assembling the PCB.
 * Solder in all diodes (Align the stripe on the diode with the stripe on the PCB)
-* Solder in the **3** and **RCL** switches
+* Solder in the button with number the **3** and the button with **RCL**
 * Solder in the (headers for the) Blue Pill
 * Solder the 10k Column PullUp resistors
 * Solder in the rest of the switches

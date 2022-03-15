@@ -41,7 +41,7 @@ The following parts are required to be 3D Printed. For more details, please see 
 
 ---
 ### PCB
-For this project you need to order a custom PCB. The design files can be downloaded [here](nolinkyet). You can order this PCB through a supplier like JLCPCB or PCBWay or something similar. You only need 1 base PCB, but most of the time it is just as expensive to order 5 or 10.  
+For this project you need to order a custom PCB. The design files can be downloaded [here](https://github.com/Martijnve23/F16-ICP/releases). You can order this PCB through a supplier like JLCPCB or PCBWay or something similar. You only need 1 base PCB, but most of the time it is just as expensive to order 5 or 10.  
 
 To order the PCB, you need to:
 * Create an account on the website
@@ -60,6 +60,7 @@ Some basic tools are required to assemble the ICP. Depending on the type of fini
 * Soldering iron and solder
 * (Flush) wire cutters
 * Screwdrivers
+* 3D printer
 
 **Optional tools:**
 * White and/or black spray paint
